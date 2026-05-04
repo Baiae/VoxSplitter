@@ -1,0 +1,6 @@
+{
+  "name": "VoxSplitter AI",
+  "description": "Intelligent podcast processing tool that uses Gemini to identify, diarize, and isolate separate speakers from a single audio file.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
